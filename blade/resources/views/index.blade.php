@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>My Index</h1>
-    <x-movie tag="Now Showing" :conmovie = '$movies'/>
+    <x-movie tag="Now Showing" :conmovie='$movies'/>
 </body>
 </html>
